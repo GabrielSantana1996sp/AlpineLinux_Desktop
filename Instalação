@@ -1,0 +1,35 @@
+#Instalação
+
+-root
+
+-setup-alpine
+
+-br
+
+-br-nodeadkeys
+
+-hostname = nickname
+
+-enter
+
+-no
+
+-dhcp
+
+-root passworld
+
+-Brazil/
+
+-East
+
+-none
+
+(f)
+
+nickname
+
+nickname
+
+none
+
+none
